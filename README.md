@@ -1,2 +1,2 @@
 # Astronomy Clickbait Generator
-Code that scrapes the web for astronomy-based clickbait and then generates it's own headlines and text.
+Code that scrapes astronomy-based clickbait articles on the web and then generates its own headlines and text using Markov chains.
